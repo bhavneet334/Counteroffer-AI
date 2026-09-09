@@ -1,0 +1,12 @@
+# secrets and local data
+backend/.env
+backend/counteroffer.db
+backend/.venv/
+
+# dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# editor / os noise
+.DS_Store
+__pycache__/
